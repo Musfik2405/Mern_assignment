@@ -132,7 +132,7 @@ font-weight: 100;
 .main_con{
     display: flex;
     justify-content: space-between;
-    margin-right: 200px;
+    margin-right: 60px;
 }
 
 .tutu{
