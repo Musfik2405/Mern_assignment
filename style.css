@@ -1,0 +1,160 @@
+.container_img{
+    display: flex;
+   
+    background-color: gainsboro;
+    
+    
+
+}
+
+.showing{
+   
+}
+
+.show{
+    justify-content: center;
+}
+
+.image2{
+    height: 127px;
+    padding-top: 40px;
+    margin-left: 150px;
+
+}
+
+.myimage{
+    height: 227px;
+    margin-left: 700px;
+}
+
+.show_button{
+    display: flex;
+    margin-left: 160px;
+    margin-top: 20px;
+    
+}
+.nav_container a:hover{
+   background-color: #d4d4d4;
+}
+.nav_container a{
+    text-decoration: none;
+    color: black;
+    padding: 15px 5px;
+    background-color: white;
+    font-size: 30px;
+    /* border: 2px solid #d4d4d4; */
+    border-radius: 5px;
+    
+    margin-right: 70px;
+}
+main{
+    margin-left: 160px;
+   
+
+}
+
+.main_title{
+font-size: 40px;
+color: orange;
+font-weight: 100;
+
+}
+
+.main_info{
+    font-size: 30px;
+    font-weight: 100;
+    margin-bottom: 5px;
+    
+}
+.mention{
+    font-size: 20px;
+    font-weight: 50;
+    color: lightslategray;
+    margin-bottom: 0px;
+}
+
+.main_in{
+    font-size: 25px;
+    font-weight: 100;
+    color: lightslategray;
+    margin-top: 1px;
+    margin-bottom: 5px;
+
+}
+
+#dristic{
+   
+   /* padding: 10px 220px; */
+   height: 40px;
+   width: 720px;
+   margin-bottom: 0px;
+   font-size: 20px;
+   color: lightslategray;
+   
+}
+
+
+.name{
+    height: 35px;
+    width: 715px;
+    margin-bottom: 5px;
+}
+
+.box{
+    border: 1px solid gray;
+    width: 720px;
+    height: 150px;
+}
+
+.tarikh{
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+
+.tarikh #non{
+    height: 40px;
+    width: 180px;
+    font-size: 20px;
+    color: lightslategray;
+}
+
+.mar{
+    margin-top: 15px;
+    margin-bottom: 5px;
+    
+}
+
+.textb{
+    font-weight: bold;
+}
+
+.main_con{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 1100px;
+}
+
+.tutu{
+    margin-top: 231px;
+}
+
+.main_op{
+    font-size: 20px;
+    font-weight: 100;
+    color: lightslategray;
+    
+}
+
+.sub_btn{
+    color: white;
+    font-size: 25px;
+    background-color: green;
+
+    margin-top: 40px;
+    margin-left: 150px;
+    padding: 20px 800px;
+    border: none;
+    border-radius: 10px;
+
+}
